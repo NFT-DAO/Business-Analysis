@@ -1,0 +1,23 @@
+1)  Prototype User Story 
+As: **Cardano and NFT enthusiast**
+I want to: **I want to participate in the first Cardano powered digital art auction, where I can bid on the first NFT minted with ADA.**
+So I can: **Own part of Cardano & be part of NFT history**
+
+2)  Barebone use cases for story
+Use Case 1:  (As a cardano & nft enthusiast) I want to register for the auction (with my cardano wallet) prior to beginning 
+flow: Visit auction landing-page -> select: "register" -> prompted to connect wallet -> wallet connected and account signed with private key of address
+
+Use Case 2: (As a cardano nft owner) I want to view the NFT i bought ;
+flow: Connect wallet -> select "view NFT"
+
+Use Case 3: (As a cardano & nft enthusiast) I want to see the live auction
+flow: [start time in future] visit landing-page -> signup for newsletter or come back when auction starts // [start time passed] visit landing-page -> enter auction
+
+Use Case 4: (As a cardano & nft enthusiast) I want to bid on the NFT (when registered before or instantly connect wallet) 
+flow: [wallet app / hww still connected] visit auction landing page -> place bid & confirm in app or hww // [wallet app not connected] visit auction landing page -> connect wallet -> place bid & confirm in app or hww
+
+Use Case 5 (As a cardano & nft enthusiast) I want to claim the NFT I won.
+flow: [wallet app / hww still connected] visit auction landing page -> start claim process -> confirm claim with hww/wallet app // [wallet app not connected] visit auction landing page -> connect wallet -> start claim process -> confirm claim with hww/wallet app
+
+Use Case 6: (As a cardano & nft enthusiast) I want to view my/an NFT.
+flow: visit auction landing page / Cardano explorer (?) -> input contract address into search field -> glance at piece
