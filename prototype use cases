@@ -21,3 +21,6 @@ flow: [wallet app / hww still connected] visit auction landing page -> start cla
 
 Use Case 6: (As a cardano & nft enthusiast) I want to view my/an NFT.
 flow: visit auction landing page / Cardano explorer (?) -> input contract address into search field -> glance at piece
+
+
+App Flow-Chart available here: https://lucid.app/lucidchart/invitations/accept/e03ee757-10da-4e4b-8b1b-b08c0a58f4ed
