@@ -1,4 +1,5 @@
 USER STORIES
+
 Why we need them?
 Aside from the fact that they’re designed to fit on index cards and can be easily understood by anyone, one of the biggest advantages of user stories is that they can help one from getting lost in the technical details of your product’s backend or from becoming enamored with a UX one believes is elegant but that isn’t actually structured in a way users prefer to work.
 User stories help teams accomplish all of this — and build better products — by forcing one to make one simple change to to development planning approach. Rather than writing up plans from the product’s point of view (which features to build), user stories force one to draft each proposed idea for new functionality from the point of view of the actual people who will be using that functionality.
@@ -12,3 +13,6 @@ As a Cardano and NFT enthusiast, I want to participate in the first Cardano powe
 
 Sidenote
 At NFT-DAO we are aware that “users” is an anachronistic term and that most app consumers are also producers, that’’s why we speak of “Prosumer Stories”.
+
+
+resource: https://www.productplan.com/glossary/user-story/
